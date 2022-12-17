@@ -1,0 +1,338 @@
+
+ /* Extra large devices  */
+ @media (min-width: 1200px) {  }
+
+ /* Large devices */
+@media (min-width: 992px) and (max-width: 1199.98px) {  }
+
+
+
+ /* Medium devices  */
+ @media (min-width: 768px) and (max-width: 991.98px) { 
+
+ /* Header Part */
+ .banner_overly {
+  padding: 150px 0;
+  
+}
+.banner_text h1 {
+  font-size: 42px;
+  line-height: 40px;
+}
+ /* Header Part */
+
+ /* Service Part */
+ .service_toptext h3 {
+	font-size: 30px;
+	line-height: 30px;
+
+}
+ /* Service Part */
+
+ /* Twitter Part */
+ .overly {
+	padding-top: 118px;
+}
+ .twtr_text h3 {
+	padding-top: 50px;
+	padding-bottom: 25px;
+	padding-left: 60px;
+	padding-right: 60px;
+	line-height: 25px;
+}
+ /* Twitter Part */
+
+ /* Skill Part */
+ .skill_head h3 {
+	padding-bottom: 25px;
+}
+.skill_left p {
+	font-size: 15px;
+	line-height: 22px;
+}
+.skill_left a {
+	margin-top: 31px;
+	margin-bottom: 30px;
+}
+
+ /* Skill Part */
+
+ /* Album Part */
+ .album_text p {
+	text-align: center;
+}
+ /* Album Part */
+
+ /* Blog Part */
+ .blog_img img {
+	width: 100%;
+	padding-top: 20px;
+}
+ /* Blog Part */
+
+ /* Form Part */
+ .right_icon {
+	text-align: center;
+}
+ /* Form Part */
+ /* Header Part */
+ /* Header Part */
+
+  }
+
+
+
+  /* Small devices  */
+  @media (min-width: 576px) and (max-width: 767.98px) {
+
+     /* Header Part */
+    .banner_overly {
+      padding: 150px 0;
+      
+    }
+    .banner_text h1 {
+      font-size: 42px;
+      line-height: 40px;
+    }
+     /* Header Part */
+
+ /* Work Part */
+ .show_toptext p {
+	padding-left: 8px;
+	padding-right: 10px;
+}
+ /* Work Part */
+
+ /* Twitter Part */
+ .overly {
+	padding-top: 140px;
+}
+.twtr_text h3 {
+	line-height: 26px;
+}
+ /* Twitter Part */
+
+ /* Team Part */
+ .team_toptext p {
+	padding-bottom: 20px;
+	padding-top: 20px;
+	padding-right: 85px;
+	padding-left: 90px;
+	line-height: 20px;
+}
+.item_text p {
+	padding-bottom: 18px;
+}
+ /* Team Part */
+
+ /* Skill Part */
+ .skill_head h3 {
+	padding-bottom: 20px;
+}
+.skill_left a {
+	margin-top: 28px;
+	margin-bottom: 38px;
+}
+ /* Skill Part */
+
+ /* Album Part */
+ .album_text p {
+	text-align: center;
+}
+ /* Album Part */
+
+ /* Display Part */
+ .d_img img {
+	width: 100%;
+}
+ /* Display Part */
+
+ /* Blog Part */
+ .blog_img img {
+	width: 100%;
+	padding-top: 35px;
+}
+ /* Blog Part */
+
+ /* Contact Part */
+ .left_head h3 {
+	padding-bottom: 25px;
+}
+ .left_head p {
+	padding-bottom: 36px;
+	
+}
+ /* Contact Part */
+
+ /* Footer Part */
+ .footer_icon i {
+	padding: 15px 20px;
+	font-size: 25px;
+	margin-right: 10px;
+}
+ /* Footer Part */     
+
+
+
+    }
+
+
+
+ /* Extra small devices  */
+ @media (min-width: 320px) and (max-width: 575.98px) { 
+
+/* Header Part */
+   .banner_overly {
+	padding: 150px 0;
+	
+}
+
+.banner_text h1 {
+	font-size: 25px;
+	font-family: 'Roboto', sans-serif;
+	color: #fff;
+  line-height: 30px;
+}
+/* Header Part */
+
+/* Service Part */
+.service_toptext h3 {
+	font-size: 20px;
+	line-height: 28px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+ /* Service Part */
+
+ /* Show Part */
+ .show_toptext p {
+	font-size: 14px;
+	padding-left: 11px;
+	padding-right: 7px;
+}
+ /* Show Part */
+
+ /* Twitter Part */
+
+ .overly {
+	padding-top: 116px;
+}
+ .twtr_text h3 {
+	padding-top: 39px;
+	font-size: 18px;
+	line-height: 24px;
+}
+ /* Twitter Part */
+
+ /* Team Part */
+ #team_part {
+	padding: 65px 0;
+}
+.team_toptext p {
+	padding-top: 17px;
+	padding-bottom: 30px;
+	padding-left: 31px;
+	padding-right: 26px;
+	line-height: 20px;
+}
+.item_text h3 {
+	padding-top: 15px;
+	padding-bottom: 8px;
+	font-size: 15px;
+}
+.item_text p {
+	padding-bottom: 24px;
+}
+ /* Team Part */
+
+ /* Skill Part */
+ .skill_overly {
+	padding: 62px 0;
+}
+.skill_head h3 {
+	padding-bottom: 22px;
+}
+.skill_left a {
+	margin-top: 26px;
+	margin-bottom: 30px;
+}
+.skill_left p {
+	font-size: 14px;
+}
+ /* Skill Part */
+
+ /* ServiceT Part */
+ .servicet_head p {
+	padding-right: 5px;
+	line-height: 20px;
+}
+.sitem_text p {
+	padding-right: 22px;
+}
+ /* ServiceT Part */
+
+ /* Album Part */
+ .album_text p {
+	font-size: 20px;
+	text-align: center;
+}
+ /* Album Part */
+
+ /* Portfolio Part */
+ .portfolio_head a {
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+	color: #177bbb;
+	padding-right: 11px;
+	padding-top: 25px;
+}
+ /* Portfolio Part */
+
+ /* Display Part */
+ .d_img img {
+	width: 100%;
+}
+ /* Display Part */
+
+ /* Blog Part */
+ .blog_img img {
+	width: 100%;
+	padding-top: 20px;
+}
+ /* Blog Part */
+
+ /* Contact Part */
+ .left_head h3 {
+	padding-bottom: 22px;
+}
+.left_head p {
+	padding-bottom: 34px;
+	padding-right: 15px;
+	
+}
+
+ /* Contact Part */
+
+ /* Form Part */
+ .right_icon {
+	padding: 10px 132px;
+	text-align: center;
+}
+ /* Form Part */
+
+ /* Footer Part */
+ .footer_icon i {
+	margin-top: 10px;
+}
+.footer_icon i {
+	padding: 10px 10px;
+	font-size: 34px;
+	margin-right: 13px;
+	margin-top: 10px;
+}
+ /* Footer Part */
+   
+  }
+
+
+
